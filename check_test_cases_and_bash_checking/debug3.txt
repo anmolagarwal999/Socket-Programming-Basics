@@ -1,0 +1,8 @@
+file4.txt
+random3.txt
+random4.txt
+random5.txt
+check_abs.txt
+outLocked.txt
+DNE
+cli_folder
